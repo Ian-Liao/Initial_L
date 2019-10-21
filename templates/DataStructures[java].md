@@ -9,3 +9,7 @@ public class Solution {
     }
 }
 ```
+
+# General Data Structures in Java
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg">
